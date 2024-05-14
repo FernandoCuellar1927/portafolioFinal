@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+}
+
+body { 
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.btn-wts{
+    margin-left: 40%;
+}
+
+.nombre { 
+    font-family: "Sedgwick Ave Display", cursiva; pointer-events: 500px; inset-inline-end: normal; 
+}
+
+.carrusel {
+    margin-top: 5%;
+}
+article{
+    color: white;
+    
+}
+
+
+.imagen-inicio {
+    height: 400px;
+  
+}
+
+.espacio1 {
+background-color: black;
+height: 400px;
+
+}
+
+.descripcion-inicio {
+    align-items: center;
+    align-content: center;
+    text-align: justify;
+    height: 400px;
+    color: aliceblue;
+}
+
+.imagenes-inicial{
+    border: 1px solid black;
+    align-content: center;
+}
+
+
+footer {
+    color: white;
+    
+}
+.correo{
+    margin-top: -1px;
+}
+
+.instagram{
+    margin-top: -1px;
+}
+.facebook{
+    margin-top: -1px;
+}
+.celular{
+    margin-top: -1px;
+}
+
+.imagen-quien-soy{
+    height: 500px;
+    align-content: center;
+}
+.tex-quien-soy{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.valores {
+    color: aliceblue;
+    margin-top: 2%;
+}
+
+.logos-de-valores{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    height: 250px;
+}
+
+.whatsappcontac{
+    background-color: rgb(13, 210, 20);
+    align-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 20px;
+    color: aliceblue;
+    margin-top: none;
+    text-align: justify;
+    margin-bottom: auto;
+}
+
+#whatssap-img{
+    display: inline-block;
+    align-items: center;
+    align-content: center;
+}
+#whatssap-text{
+    font-size: large;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    display: inline-block;
+
+}
+
+button{
+    align-items: center;
+}
+h6{
+    align-content:flex-start;
+}
+.texto-quien-soy {
+    text-align: justify;
+    color: aliceblue;
+    margin-top: 3%;
+}
+
+.logos-valores {
+    margin-top: 3%;
+    align-items: center;
+}
+
+.pie-de-pagina {
+    margin-top: 2%;
+}
+
+.linea-blanco {
+    background-color: rgb(255, 255, 0);
+    height: 10px;
+    align-content: center;
+}
+.titulos-portafolio {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 3%;
+}
+
+.contantt :hover {
+    transition: .2s;
+    transform: scale(1.3);
+    
+}
